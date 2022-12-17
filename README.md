@@ -15,8 +15,7 @@ Las principales herramientas y lenguajes empleados han sidos:
 4. Servlets
 5. JSON
 6. XML
-7. JSON
-8. AJAX
+7. AJAX
 
 ## Calificación obtenida
 9.5/10
